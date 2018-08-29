@@ -1,1 +1,1 @@
-﻿Haiseva koodi on vaikea ymmärtää ja siinä on ylipäätään tehty monia asioita epäoptimaalisella tavalla. Esim. liikaa epäselviä tai tarpeettomia kommentteja, jotka eivät auta koodin pätkän tarkoitusksen ymmärtämistä.
+﻿Haiseva koodi on vaikea ymmärtää ja siinä on ylipäätään tehty monia asioita epäoptimaalisella tavalla. Esim. liikaa epäselviä tai tarpeettomia kommentteja, jotka eivät auta koodin pätkän tarkoituksen ymmärtämistä.
